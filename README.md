@@ -18,6 +18,7 @@ This template follows a carefully designed structure to optimize collaboration b
 - `.cursorignore`: Files excluded from AI analysis
 - `.gitignore`: Git ignore patterns
 - `.gitattributes`: Git attributes configuration
+- `.sftp`: FTP configuration for deployment
 
 ## Getting Started
 

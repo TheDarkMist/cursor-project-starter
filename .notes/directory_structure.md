@@ -8,5 +8,6 @@
 │   └── directory_structure.md # This file - project structure documentation
 ├── .cursorrules               # AI collaboration rules
 ├── .cursorignore              # Files to be ignored by AI
+├── .sftp                      # FTP deployment configuration
 └── README.md                  # Project readme
 ```

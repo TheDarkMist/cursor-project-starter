@@ -1,0 +1,17 @@
+{
+    "name": "FTP Configuration",
+    "protocol": "ftp",
+    "host": "example.com",
+    "port": 21,
+    "username": "user",
+    "password": "password",
+    "remotePath": "/remote/path",
+    "uploadOnSave": false,
+    "ignore": [
+        "**/.git/**",
+        "**/.vscode/**",
+        "**/node_modules/**",
+        "**/.DS_Store",
+        "**/.sftp"
+    ]
+}
